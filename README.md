@@ -2,10 +2,10 @@
 Find a piece of paper in an image and crop to fit
 
 Original:
-(https://github.com/thepav/PageCrop/receipt_7.jpg)
+![Image of original receipt](https://github.com/thepav/PageCrop/receipt_7.jpg)
 
 Find lines:
-(https://github.com/thepav/PageCrop/lines.jpg)
+![Image of receipt with lines found](https://github.com/thepav/PageCrop/lines.jpg)
 
 Crop to fit:
-(https://github.com/thepav/PageCrop/crop.jpg)
+![Image of receipt cropped to fit](https://github.com/thepav/PageCrop/crop.jpg)
